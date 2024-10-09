@@ -28,4 +28,4 @@ def minion_game(string):
     return lists
 
 if __name__ == '__main__':
-    print(minion_game("BANANA"))
+    print(minion_game("BANANA")) 
