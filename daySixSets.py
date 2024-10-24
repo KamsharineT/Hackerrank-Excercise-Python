@@ -3,7 +3,7 @@
 # .update() or |=   
 # Update the set by adding elements from an iterable/another set.
 H = set("Hacker")
-R = set("Rank")
+R = set("Rank") 
 H.update(R)
 
 print (H)
