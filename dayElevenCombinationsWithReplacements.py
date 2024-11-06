@@ -5,6 +5,7 @@ from itertools import combinations
 c = [1, 2, 3]
 
 print(list(combinations_with_replacement(c,2))) #[(1, 1), (1, 2), (1, 3), (2, 2), (2, 3), (3, 3)]
+                                                
 
 print(list(combinations(c,2))) #[(1, 2), (1, 3), (2, 3)]
 
